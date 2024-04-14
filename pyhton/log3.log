@@ -1,0 +1,122 @@
+2024-03-03 13:29:14,804 root INFO this is my info logging
+2024-03-03 13:29:14,804 root ERROR this is my error msg
+2024-03-03 13:29:14,805 root CRITICAL this is my critical
+2024-03-03 13:51:35,075 root INFO we are itreating through our list and our local var is i
+2024-03-03 13:51:35,075 root INFO we are itreating through our list and our local var is i
+2024-03-03 13:51:35,075 root INFO we are itreating through our list and our local var is i
+2024-03-03 13:51:35,076 root INFO we are itreating through our list and our local var is i
+2024-03-03 13:51:35,076 root INFO we are itreating through our list and our local var is i
+2024-03-03 13:51:35,076 root INFO we are itreating through our list and our local var is i
+2024-03-03 13:51:35,076 root INFO i am inside if statement and i am trying to check list type
+2024-03-03 13:51:35,076 root INFO we are itreating through our list and our local var is i
+2024-03-03 13:51:35,076 root INFO i am inside string list
+2024-03-03 13:51:35,076 root INFO i am inside another loop
+2024-03-03 13:51:35,076 root INFO we are itreating through our list and our local var is i
+2024-03-03 13:51:35,076 root INFO i am inside string list
+2024-03-03 13:51:35,076 root INFO i am inside another loop
+2024-03-03 13:52:27,094 root INFO we are itreating through our list and our local var is i
+2024-03-03 13:52:27,094 root INFO we are itreating through our list and our local var is i
+2024-03-03 13:52:27,094 root INFO we are itreating through our list and our local var is i
+2024-03-03 13:52:27,095 root INFO we are itreating through our list and our local var is i
+2024-03-03 13:52:27,095 root INFO we are itreating through our list and our local var is i
+2024-03-03 13:52:27,095 root INFO we are itreating through our list and our local var is i
+2024-03-03 13:52:27,095 root INFO i am inside if statement and i am trying to check list type
+2024-03-03 13:52:27,095 root INFO we are itreating through our list and our local var is i
+2024-03-03 13:52:27,095 root INFO i am inside string list
+2024-03-03 13:52:27,095 root INFO i am inside another loop
+2024-03-03 13:52:27,095 root INFO we are itreating through our list and our local var is i
+2024-03-03 13:52:27,095 root INFO i am inside string list
+2024-03-03 13:52:27,095 root INFO i am inside another loop
+2024-03-03 13:52:29,295 root INFO we are itreating through our list and our local var is i
+2024-03-03 13:52:29,295 root INFO we are itreating through our list and our local var is i
+2024-03-03 13:52:29,296 root INFO we are itreating through our list and our local var is i
+2024-03-03 13:52:29,296 root INFO we are itreating through our list and our local var is i
+2024-03-03 13:52:29,296 root INFO we are itreating through our list and our local var is i
+2024-03-03 13:52:29,296 root INFO we are itreating through our list and our local var is i
+2024-03-03 13:52:29,296 root INFO i am inside if statement and i am trying to check list type
+2024-03-03 13:52:29,296 root INFO we are itreating through our list and our local var is i
+2024-03-03 13:52:29,296 root INFO i am inside string list
+2024-03-03 13:52:29,296 root INFO i am inside another loop
+2024-03-03 13:52:29,296 root INFO we are itreating through our list and our local var is i
+2024-03-03 13:52:29,296 root INFO i am inside string list
+2024-03-03 13:52:29,296 root INFO i am inside another loop
+2024-03-03 13:54:36,421 root INFO we are itreating through our list and our local var is i
+2024-03-03 13:54:36,422 root INFO we are itreating through our list and our local var is i
+2024-03-03 13:54:36,422 root INFO we are itreating through our list and our local var is i
+2024-03-03 13:54:36,422 root INFO we are itreating through our list and our local var is i
+2024-03-03 13:54:36,422 root INFO we are itreating through our list and our local var is i
+2024-03-03 13:54:36,422 root INFO we are itreating through our list and our local var is i
+2024-03-03 13:54:36,422 root INFO i am inside if statement and i am trying to check list type
+2024-03-03 13:54:36,422 root INFO we are itreating through our list and our local var is i
+2024-03-03 13:54:36,422 root INFO i am inside string list
+2024-03-03 13:54:36,422 root INFO i am inside another loop
+2024-03-03 13:54:36,423 root INFO we are itreating through our list and our local var is i
+2024-03-03 13:54:36,423 root INFO i am inside string list
+2024-03-03 13:54:36,423 root INFO i am inside another loop
+2024-03-03 13:56:22,586 root INFO we are itreating through our list and our local var is i[1, 2, 3, 34, 4, [2, 3, 4], 'sufeeya', 'parween']
+2024-03-03 13:56:22,586 root INFO we are itreating through our list and our local var is i[1, 2, 3, 34, 4, [2, 3, 4], 'sufeeya', 'parween']
+2024-03-03 13:56:22,586 root INFO we are itreating through our list and our local var is i[1, 2, 3, 34, 4, [2, 3, 4], 'sufeeya', 'parween']
+2024-03-03 13:56:22,586 root INFO we are itreating through our list and our local var is i[1, 2, 3, 34, 4, [2, 3, 4], 'sufeeya', 'parween']
+2024-03-03 13:56:22,586 root INFO we are itreating through our list and our local var is i[1, 2, 3, 34, 4, [2, 3, 4], 'sufeeya', 'parween']
+2024-03-03 13:56:22,586 root INFO we are itreating through our list and our local var is i[1, 2, 3, 34, 4, [2, 3, 4], 'sufeeya', 'parween']
+2024-03-03 13:56:22,586 root INFO i am inside if statement and i am trying to check list type
+2024-03-03 13:56:22,586 root INFO we are itreating through our list and our local var is i[1, 2, 3, 34, 4, [2, 3, 4], 'sufeeya', 'parween']
+2024-03-03 13:56:22,586 root INFO i am inside string list
+2024-03-03 13:56:22,586 root INFO i am inside another loop
+2024-03-03 13:56:22,586 root INFO we are itreating through our list and our local var is i[1, 2, 3, 34, 4, [2, 3, 4], 'sufeeya', 'parween']
+2024-03-03 13:56:22,586 root INFO i am inside string list
+2024-03-03 13:56:22,587 root INFO i am inside another loop
+2024-03-03 14:04:37,804 root INFO we are itreating through our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sufeeya', 'parween']
+2024-03-03 14:04:37,806 root INFO we are itreating through our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sufeeya', 'parween']
+2024-03-03 14:04:37,806 root INFO we are itreating through our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sufeeya', 'parween']
+2024-03-03 14:04:37,806 root INFO we are itreating through our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sufeeya', 'parween']
+2024-03-03 14:04:37,806 root INFO we are itreating through our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sufeeya', 'parween']
+2024-03-03 14:04:37,806 root INFO we are itreating through our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sufeeya', 'parween']
+2024-03-03 14:04:37,806 root INFO i am inside if statement and i am trying to check list type
+2024-03-03 14:04:37,806 root INFO we are itreating through our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sufeeya', 'parween']
+2024-03-03 14:04:37,806 root INFO i am inside string listsufeeya
+2024-03-03 14:04:37,806 root INFO i am inside another loop
+2024-03-03 14:04:37,806 root INFO we are itreating through our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sufeeya', 'parween']
+2024-03-03 14:04:37,806 root INFO i am inside string listparween
+2024-03-03 14:04:37,806 root INFO i am inside another loop
+2024-03-03 14:05:13,163 root INFO we are itreating through our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sufeeya', 'parween']
+2024-03-03 14:05:13,164 root INFO we are itreating through our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sufeeya', 'parween']
+2024-03-03 14:05:13,164 root INFO we are itreating through our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sufeeya', 'parween']
+2024-03-03 14:05:13,164 root INFO we are itreating through our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sufeeya', 'parween']
+2024-03-03 14:05:13,164 root INFO we are itreating through our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sufeeya', 'parween']
+2024-03-03 14:05:13,164 root INFO we are itreating through our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sufeeya', 'parween']
+2024-03-03 14:05:13,164 root INFO i am inside if statement and i am trying to check list type
+2024-03-03 14:05:13,164 root INFO we are itreating through our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sufeeya', 'parween']
+2024-03-03 14:05:13,164 root INFO i am inside string listsufeeya
+2024-03-03 14:05:13,164 root INFO i am inside another loop
+2024-03-03 14:05:13,164 root INFO we are itreating through our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sufeeya', 'parween']
+2024-03-03 14:05:13,164 root INFO i am inside string listparween
+2024-03-03 14:05:13,165 root INFO i am inside another loop
+2024-03-03 14:07:52,976 root INFO we are itreating through our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sufeeya', 'parween']
+2024-03-03 14:07:52,978 root INFO we are itreating through our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sufeeya', 'parween']
+2024-03-03 14:07:52,978 root INFO we are itreating through our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sufeeya', 'parween']
+2024-03-03 14:07:52,978 root INFO we are itreating through our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sufeeya', 'parween']
+2024-03-03 14:07:52,978 root INFO we are itreating through our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sufeeya', 'parween']
+2024-03-03 14:07:52,979 root INFO we are itreating through our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sufeeya', 'parween']
+2024-03-03 14:07:52,979 root INFO i am inside if statement and i am trying to check list type
+2024-03-03 14:07:52,979 root INFO we are itreating through our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sufeeya', 'parween']
+2024-03-03 14:07:52,979 root INFO i am inside string listsufeeya
+2024-03-03 14:07:52,979 root INFO i am inside another loop
+2024-03-03 14:07:52,980 root INFO we are itreating through our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sufeeya', 'parween']
+2024-03-03 14:07:52,980 root INFO i am inside string listparween
+2024-03-03 14:07:52,980 root INFO i am inside another loop
+2024-03-03 14:07:52,980 root INFO my final result for int is [1, 2, 3, 34, 4, 2, 3, 4] and str is ['sufeeya', 'parween']
+2024-03-03 14:08:41,963 root INFO we are itreating through our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sufeeya', 'parween']
+2024-03-03 14:08:41,964 root INFO we are itreating through our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sufeeya', 'parween']
+2024-03-03 14:08:41,964 root INFO we are itreating through our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sufeeya', 'parween']
+2024-03-03 14:08:41,964 root INFO we are itreating through our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sufeeya', 'parween']
+2024-03-03 14:08:41,964 root INFO we are itreating through our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sufeeya', 'parween']
+2024-03-03 14:08:41,964 root INFO we are itreating through our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sufeeya', 'parween']
+2024-03-03 14:08:41,964 root INFO i am inside if statement and i am trying to check list type
+2024-03-03 14:08:41,964 root INFO we are itreating through our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sufeeya', 'parween']
+2024-03-03 14:08:41,964 root INFO i am inside string listsufeeya
+2024-03-03 14:08:41,964 root INFO i am inside another loop
+2024-03-03 14:08:41,964 root INFO we are itreating through our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sufeeya', 'parween']
+2024-03-03 14:08:41,964 root INFO i am inside string listparween
+2024-03-03 14:08:41,964 root INFO i am inside another loop
+2024-03-03 14:08:41,964 root INFO my final result for int is [1, 2, 3, 34, 4, 2, 3, 4] and str is ['sufeeya', 'parween']

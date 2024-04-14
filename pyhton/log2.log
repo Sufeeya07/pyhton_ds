@@ -1,0 +1,28 @@
+2024-03-03 13:20:21,009 this is my info logging
+2024-03-03 13:20:21,010 this is my error msg
+2024-03-03 13:20:21,010 this is my critical
+2024-03-03 13:23:36,652 pickle loaded: /opt/conda/lib/python3.10/site-packages/jedi/third_party/typeshed/stdlib/3/builtins.pyi
+2024-03-03 13:23:41,571 diff parser start
+2024-03-03 13:23:41,572 line_lengths old: 1; new: 1
+2024-03-03 13:23:41,572 -> code[replace] old[1:1] new[1:1]
+2024-03-03 13:23:41,572 parse_part from 1 to 1 (to 0 in part parser)
+2024-03-03 13:23:41,572 diff parser end
+2024-03-03 13:23:41,592 pickle loaded: /opt/conda/lib/python3.10/logging/__init__.py
+2024-03-03 13:23:50,642 diff parser start
+2024-03-03 13:23:50,643 line_lengths old: 1; new: 1
+2024-03-03 13:23:50,643 -> code[replace] old[1:1] new[1:1]
+2024-03-03 13:23:50,643 parse_part from 1 to 1 (to 0 in part parser)
+2024-03-03 13:23:50,643 diff parser end
+2024-03-03 13:24:16,083 diff parser start
+2024-03-03 13:24:16,084 line_lengths old: 1; new: 1
+2024-03-03 13:24:16,084 -> code[replace] old[1:1] new[1:1]
+2024-03-03 13:24:16,084 parse_part from 1 to 1 (to 0 in part parser)
+2024-03-03 13:24:16,085 diff parser end
+2024-03-03 13:24:19,733 diff parser start
+2024-03-03 13:24:19,733 line_lengths old: 1; new: 1
+2024-03-03 13:24:19,733 -> code[replace] old[1:1] new[1:1]
+2024-03-03 13:24:19,734 parse_part from 1 to 1 (to 0 in part parser)
+2024-03-03 13:24:19,734 diff parser end
+2024-03-03 13:28:47,227 this is my info logging
+2024-03-03 13:28:47,228 this is my error msg
+2024-03-03 13:28:47,228 this is my critical
