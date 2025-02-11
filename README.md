@@ -1,7 +1,3 @@
-# Python Data Analysis Project
-## Overview
-Python is a versatile programming language known for its simplicity and ease of use. It has a rich ecosystem of libraries that make it perfect for working with data. Two key libraries we use here are pandas and NumPy.
-
 ## Python
 Python is a powerful, high-level programming language that's easy to learn and use. It is widely used in various fields, including data analysis, web development, automation, and more.
 
